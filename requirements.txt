@@ -1,4 +1,5 @@
-numpy
-pandas
-tensorflow
-keras
+The Requirements for this project:
+    1.numpy
+    2.pandas
+    3.tensor flow
+    4.keras
